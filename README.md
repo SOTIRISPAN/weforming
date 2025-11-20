@@ -6,7 +6,7 @@ At the software level, WeForming establishes a unified digital framework through
 
 Overall, WeForming builds an integrated, scalable architecture that enables buildings to become active, intelligent nodes within the energy ecosystem. By combining digital twins, predictive AI models, interoperable communication structures, and advanced energy hardware, the project sets the foundation for real-time operation, cross-platform compatibility, and future deployment of intelligent energy flexibility services across its demonstration sites.
 
-Related Repositories / Folders
+### Related Repositories / Folders
 
 Below you can find the main folders and repositories that complement the iGFB development within the WeForming ecosystem:
 
