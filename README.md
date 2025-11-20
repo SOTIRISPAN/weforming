@@ -11,7 +11,11 @@ Related Repositories / Folders
 Below you can find the main folders and repositories that complement the iGFB development within the WeForming ecosystem:
 
 Middleware: https://github.com/SOTIRISPAN/weforming/tree/patch-1/Middleware
+
 WeForming_Connector : https://github.com/SOTIRISPAN/weforming/tree/patch-1/WeForming_Connector
+
 api_gateway : https://github.com/SOTIRISPAN/weforming/tree/patch-1/api_gateway
+
 figures: https://github.com/SOTIRISPAN/weforming/tree/patch-1/figures
+
 iGFB-pedia: https://github.com/SOTIRISPAN/weforming/tree/patch-1/iGFB-pedia
