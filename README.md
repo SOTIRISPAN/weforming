@@ -5,3 +5,12 @@ The WeForming project focuses on transforming conventional passive buildings int
 At the software level, WeForming establishes a unified digital framework through middleware, REST-based APIs, a canonical dataspace model, and a data services catalogue, ensuring seamless integration and semantic interoperability between heterogeneous devices and building systems. At the hardware level, the project validates real-time control solutions, power processing hubs, and thermal storage systems such as the Carnot Battery, all designed to enhance building-level flexibility and support grid services.
 
 Overall, WeForming builds an integrated, scalable architecture that enables buildings to become active, intelligent nodes within the energy ecosystem. By combining digital twins, predictive AI models, interoperable communication structures, and advanced energy hardware, the project sets the foundation for real-time operation, cross-platform compatibility, and future deployment of intelligent energy flexibility services across its demonstration sites.
+
+Related Repositories / Folders
+
+Below you can find the main folders and repositories that complement the iGFB development within the WeForming ecosystem:
+Middleware: https://github.com/SOTIRISPAN/weforming/tree/patch-1/Middleware
+WeForming_Connector : https://github.com/SOTIRISPAN/weforming/tree/patch-1/WeForming_Connector
+api_gateway : https://github.com/SOTIRISPAN/weforming/tree/patch-1/api_gateway
+figures: https://github.com/SOTIRISPAN/weforming/tree/patch-1/figures
+iGFB-pedia: https://github.com/SOTIRISPAN/weforming/tree/patch-1/iGFB-pedia
