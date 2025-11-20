@@ -1,4 +1,4 @@
-#WeForming
+# WeForming
 
 The WeForming project focuses on transforming conventional passive buildings into Intelligent Grid-Forming Buildings (iGFBs) that actively interact with energy systems and contribute to grid stability, flexibility, and energy market participation. To achieve this, the project develops a comprehensive ecosystem of technological enablers, including digital infrastructures, semantic data models, digital twins, AI/ML services, real-time controllers, and advanced electrical and thermal energy hubs. These components work together to create interoperable, edge-to-cloud data flows and intelligent control capabilities across diverse building environments.
 
