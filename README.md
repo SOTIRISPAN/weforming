@@ -11,7 +11,7 @@ Overall, WeForming builds an integrated, scalable architecture that enables buil
 Below you can find the main folders and repositories that complement the iGFB development within the WeForming ecosystem:
 
 
-- **[🔗 Middleware](./Middleware/)**  
+- **[Middleware](./Middleware/)**  
 
 - **[WeForming Connector](./WeForming_Connector/)**  
 
