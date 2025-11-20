@@ -10,12 +10,13 @@ Overall, WeForming builds an integrated, scalable architecture that enables buil
 
 Below you can find the main folders and repositories that complement the iGFB development within the WeForming ecosystem:
 
-Middleware: https://github.com/SOTIRISPAN/weforming/tree/patch-1/Middleware
 
-WeForming_Connector : https://github.com/SOTIRISPAN/weforming/tree/patch-1/WeForming_Connector
+- **[🔗 Middleware](./Middleware/)**  
 
-api_gateway : https://github.com/SOTIRISPAN/weforming/tree/patch-1/api_gateway
+- **[WeForming Connector](./WeForming_Connector/)**  
 
-figures: https://github.com/SOTIRISPAN/weforming/tree/patch-1/figures
+- **[API Gateway](./api_gateway/)**  
 
-iGFB-pedia: https://github.com/SOTIRISPAN/weforming/tree/patch-1/iGFB-pedia
+- **[Figures](./figures/)**  
+
+- **[iGFB-pedia](./iGFB-pedia/)**  
